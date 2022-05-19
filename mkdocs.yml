@@ -4,7 +4,7 @@ theme:
     name: material
     
 nav:
-  - 简介: index.md
+  - 简介:
     - 公交:
       - 安徽: 
         - 合肥:
