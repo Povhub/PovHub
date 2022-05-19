@@ -2,4 +2,3 @@ mkdocs
 #Add pip package if needed
 mkdocs-bootswatch
 mkdocs-minify-plugin
-pip install mkdocs-material
