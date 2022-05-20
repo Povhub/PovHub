@@ -3,11 +3,9 @@ site_name: PovHub
 theme: 
     name: material
     
-nav:
-  - 简介: index.md
-    - 公交:
-      - 安徽: 
-        - 合肥:
-          - 119: bus/anhui/hefei/119.md
-        - 芜湖:
-      
+nav: 
+  - About: index.md
+  - Bus: 
+    - Anhui: 
+      - Hefei: 
+        - 119: bus/anhui/hefei/119.md
